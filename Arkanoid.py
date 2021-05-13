@@ -1,3 +1,8 @@
+__author__ = "Rishab Patgaonkar"
+__copyright__ = "Copyright (C) 2021 Rishab Patgaonkar"
+__license__ = "Public Domain"
+__version__ = "1.0"
+
 from tkinter import *
 from tkinter import messagebox
 
